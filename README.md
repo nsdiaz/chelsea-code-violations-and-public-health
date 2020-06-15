@@ -1,5 +1,11 @@
 #  Leveraging data to expand city capacity to identify and resolve housing-related public health problems
 
+This project uses machine learning to predict which properties in the city of Chelsea, MA, will be exposed to public health hazards. The model works by training on a subsection of the city that was subject to a proactive code inspections program and then making predictions for the rest of the city.
+
+Initial evaluation of the models suggests that the city government may use these results to be more effective at finding public health risks than by inspecting properties at random or by simply responding to neighbors complaints.
+
+## Motivation
+
  City housing code enforcement has enormous transformative potential for public health. Achieving cities’ health and social missions, such as reducing overcrowding or asthma attacks, has remained difficult with traditional code enforcement approaches. Cities increasingly have access to digital datasets that can be used to identify and characterize housing-related health risks and prioritize these properties for inspection. However, code enforcement has limited effectiveness in addressing health and housing problems. This is because cities are not aware of problems soon enough and inspections are often reactive or rely only on inspectors’ tacit knowledge.
  
  ## Scope
