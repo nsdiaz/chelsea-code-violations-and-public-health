@@ -12,9 +12,11 @@ In 2014, Chelsea, MA, a small, densely populated, majority-minority city near Bo
 
 ## Python
 
-This project uses the Python programming language. To work in Python, we recommend downloading the latest [Anaconda] (https://docs.anaconda.com/anaconda/install/).
+This project is written in Python. To work in Python, we recommend downloading the 
+[Anaconda environment](https://docs.anaconda.com/anaconda/install/).
 
-Within Python, we use the `pandas` library for dataframe manipulation and analysis and the `sklearn` library for running supervised learning models. Additionally, we leverage the following libraries: 
+Within Python, we use the `pandas` library for dataframe manipulation and analysis and the `sklearn` library for running supervised learning models. Additionally, we leverage the following libraries: `matplotlib.pyplot`, `seaborn`, `numpy`, `missingno`, `xgboost`, `warnings`.
+
 
 ## Notes
 
