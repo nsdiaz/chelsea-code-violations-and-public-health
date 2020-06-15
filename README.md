@@ -14,6 +14,8 @@ In 2014, Chelsea, MA, a small, densely populated, majority-minority city near Bo
 
 ## Data
 
+The data used for this project has been collected by different departments in Chelsea and uploaded to the [BuildingBlocks](https://www.tolemi.com/buildingblocks/) platform. A map-based application which collects and joins property-based data.
+
 ## Analysis
 
 ## Python
