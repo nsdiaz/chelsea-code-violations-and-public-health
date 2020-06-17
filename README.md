@@ -38,4 +38,4 @@ Within Python, we use the `pandas` library for dataframe manipulation and analys
 
 ## Notes
 
-[Important links go here]
+This work was conducted as part of the Harvard Kennedy School’s Ash Center for Democratic Governance and Innovation’s [Innovation Field Lab](https://ash.harvard.edu/innovation-field-lab). 
