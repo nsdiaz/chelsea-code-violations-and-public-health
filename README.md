@@ -38,4 +38,7 @@ Within Python, we use the `pandas` library for dataframe manipulation and analys
 
 ## Notes
 
+Additional materials:
+* [Data-Smart City Solutions article](https://datasmart.ash.harvard.edu/news/article/how-cities-can-use-housing-data-predict-covid-19-hotspots-lessons-chelsea-ma) covering this project
+
 This work was conducted as part of the Harvard Kennedy School’s Ash Center for Democratic Governance and Innovation’s [Innovation Field Lab](https://ash.harvard.edu/innovation-field-lab). 
